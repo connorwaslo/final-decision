@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "sdkVersion": "19.0.0",
+    "name": "Final Decision",
+    "icon": "./res/64x64 Icon.png",
+    "slug": "finaldecision",
+    "ios": {
+      "bundleIdentifier": "com.refridgeraider.finaldecision"
+    },
+    "android": {
+      "package": "com.refridgeraider.finaldecision",
+      "permissions": [],
+      "versionCode": 2
+    }
+  }
+}
